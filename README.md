@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MoreshwarWagh">
-    <img src="[https://avatars.githubusercontent.com/u/51285263?v=4](https://github.com/account)" alt="Moreshwar Wagh" />
+    <img src="https://avatars.githubusercontent.com/u/51285263?v=4" alt="Moreshwar Wagh" />
   </a>
 </p>
 
