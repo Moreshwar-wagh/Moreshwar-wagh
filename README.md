@@ -50,7 +50,7 @@ I am a **Full-stack Developer** with a passion for learning and growing in **Dev
 
 <a href="https://www.sql.org/" target="_blank"><img align="left" alt="SQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>
 
-<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tailwindcss/tailwindcss.svg"></a>
+<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" height="42px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg"></a>
 
 <a href="https://www.figma.com/" target="_blank"><img align="left" alt="Figma" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></a>
 
