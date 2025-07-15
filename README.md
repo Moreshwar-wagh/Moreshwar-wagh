@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://github.com/MoreshwarWagh">
-    <img src="https://avatars.githubusercontent.com/u/51285263?v=4" alt="Moreshwar Wagh" />
-  </a>
-</p>
-
-<p align="center">
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F75D7E&center=true&random=true&width=435&lines=Full-stack+Developer;Learning+DevOps;React+and+JavaScript+Expert;Python+and+C++;Building+Innovative+Tech" alt="Typing SVG" />
   </a>
