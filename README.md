@@ -23,7 +23,8 @@ I am a **Full-stack Developer** with a passion for learning and growing in **Dev
 - &nbsp; **Always learning**: Exploring **DevOps** practices, improving my **cloud skills**, and enhancing my Python expertise.
 - &nbsp; I have experience working with **React**, **Material UI**, **Tailwind CSS**, **Shadcn**, and **Radix UI** for modern UI design.
 - &nbsp; Feel free to **connect with me** on [LinkedIn](https://www.linkedin.com/in/moreshwarwagh/).
-- &nbsp; Check out my [**Resume**](https://drive.google.com/file/d/1RkJXetQdxocPVcDT1dmKxCqK7ZT0thPM/view?usp=sharing).
+- &nbsp; Check out my [**Resume**]
+<!-- - (https://drive.google.com/file/d/1RkJXetQdxocPVcDT1dmKxCqK7ZT0thPM/view?usp=sharing). -->
 - &nbsp; In my free time, I enjoy experimenting with new tech, playing **Fifa** ⚽, and listening to music 🎶.
 
 ### 🔨 Languages and Tools:
