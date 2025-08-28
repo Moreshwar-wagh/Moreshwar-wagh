@@ -22,7 +22,7 @@ I am a **Full-stack Developer** with a passion for learning and growing in **Dev
 - &nbsp; Currently working on several **open-source projects** and building scalable solutions with **Node.js**, **MongoDB**, and **SQL**.
 - &nbsp; **Always learning**: Exploring **DevOps** practices, improving my **cloud skills**, and enhancing my Python expertise.
 - &nbsp; I have experience working with **React**, **Material UI**, **Tailwind CSS**, **Shadcn**, and **Radix UI** for modern UI design.
-- &nbsp; Feel free to **connect with me** on [LinkedIn](https://www.linkedin.com/in/moreshwarwagh/).
+- &nbsp; Feel free to **connect with me** on [LinkedIn](https://www.linkedin.com/in/moreshwar-wagh?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2C7w524JRHuiKN0UkBHG8A%3D%3D).
 - &nbsp; Check out my [**Resume**]
 <!-- - (https://drive.google.com/file/d/1RkJXetQdxocPVcDT1dmKxCqK7ZT0thPM/view?usp=sharing). -->
 - &nbsp; In my free time, I enjoy experimenting with new tech, playing **Fifa** ⚽, and listening to music 🎶.
